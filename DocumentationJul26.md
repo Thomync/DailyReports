@@ -17,10 +17,10 @@
 * I like VSC because it’s a fully complete text editor and, in my opinion a powerful tool for programming.
 * This is going to be my last PDF documentation, now I’ll add it in my Github profile.
 
-![evidence1](Images\Jul261.jpg "Notas sobre Git y Github")
+![evidence1](Images/Jul261.jpg "Notas sobre Git y Github")
 
-![evidence1](Images\Jul262.jpg "Actualización de Cursos")
+![evidence1](Images/Jul262.jpg "Actualización de Cursos")
 
-![evidence1](Images\Jul263.jpg "Archivos subuidos a Github")
+![evidence1](Images/Jul263.jpg "Archivos subuidos a Github")
 
-![evidence1](Images\Jul264.jpg "Práctica de Git")
+![evidence1](Images/Jul264.jpg "Práctica de Git")

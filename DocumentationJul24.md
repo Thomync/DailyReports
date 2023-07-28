@@ -18,8 +18,8 @@
 
 
 
-![evidence1](Images\Jul241.jpg "Pantalla principal")
+![evidence1](Images/Jul241.jpg "Pantalla principal")
 
-![evidence1](Images\Jul242.jpg "Página de Cursos")
+![evidence1](Images/Jul242.jpg "Página de Cursos")
 
-![evidence1](Images\Jul243.jpg "Página de ejercicios")
+![evidence1](Images/Jul243.jpg "Página de ejercicios")
