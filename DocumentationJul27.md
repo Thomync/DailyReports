@@ -23,3 +23,10 @@
 ![evidence1](Images/Jul272.jpg "Repositorio de documentación")
 
 ![evidence1](Images/Jul273.jpg "Error al añadir imágenes con la plataforma")
+
+
+# Update
+
+[ x ] Fixed the images problem 😄
+
+[ ] Update the previous documentation
