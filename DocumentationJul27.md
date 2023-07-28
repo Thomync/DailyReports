@@ -27,6 +27,6 @@
 
 # Update
 
-* [ x ] Fixed the images problem 😄
+* [x] Fixed the images problem 😄
 
 * [ ] Update the previous documentation
