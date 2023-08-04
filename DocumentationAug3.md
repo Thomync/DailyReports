@@ -9,6 +9,7 @@
 ## Blockers
 
 * I'm investigating how to create correctly a matrix in JS. I think it sholud be created using more code lines but I'll try tomorrow.
+* Update: I'm having problems to upload my excercise code with git.
 
 ## Observations
 
@@ -21,3 +22,5 @@
 ![evidence1](Images/Aug032.jpg "Resultado del ejercicio")
 
 ![evidence1](Images/Aug033.jpg "Errores al crear la matriz")
+
+![evidence1](Images/Aug034.jpg "Errores con git")
